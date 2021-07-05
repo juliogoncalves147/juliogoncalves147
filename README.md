@@ -1,13 +1,9 @@
-### Hi there 👋
 
- - Currently Studying Engenharia Informática, Universidade do Minho 💻
-
- <a href = "https://www.instagram.com/julio_goncalvess/" target="_blank">
+ - Currently Studying Engenharia Informática, Universidade do Minho 💻    <a href = "https://www.instagram.com/julio_goncalvess/" target="_blank">
  <img align="center" alt="julio-instagram" height="40" width="40" src="https://logodix.com/logo/582996.png"
  style="max-width:100%;">
  </a>
  
- <br />
  <br />
  
  ![Julio Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=juliogoncalves147&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
