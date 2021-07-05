@@ -7,6 +7,8 @@
  style="max-width:100%;">
  </a>
  
+ <br />
+ <br />
  
  ![Julio Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=juliogoncalves147&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
  
