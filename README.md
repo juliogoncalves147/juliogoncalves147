@@ -10,10 +10,10 @@
  <br />
  <br />
  
- ![Julio Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=juliogoncalves147&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+ ![Julio Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=juliogoncalves147&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliogoncalves147&layout=compact&theme=dark)](https://github.com/juliogoncalves147/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliogoncalves147&layout=compact&theme=chartreuse-dark)](https://github.com/juliogoncalves147/github-readme-stats)
 <!--
 **juliogoncalves147/juliogoncalves147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
