@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- - Engenharia Informática, Universidade do Minho 💻
- 
+ - Currently Studying Engenharia Informática, Universidade do Minho 💻
+
  <a href = "https://www.instagram.com/julio_goncalvess/" target="_blank">
  <img align="center" alt="julio-instagram" height="40" width="40" src="https://logodix.com/logo/582996.png"
  style="max-width:100%;">
